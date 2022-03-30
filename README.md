@@ -8,4 +8,4 @@ How to run:
 ./gradlew :bootRun
 ```
 
-See more on my blog: [https://mariusz.wyszomierski.pl/en/how-to-change-logging-level-in-runtime-springboot](https://mariusz.wyszomierski.pl/en/how-to-change-logging-level-in-runtime-springboot).
+See more on my blog: [https://mariusz.wyszomierski.pl/en/how-to-change-logging-level-when-springboot-application-is-running/](https://mariusz.wyszomierski.pl/en/how-to-change-logging-level-when-springboot-application-is-running/).
